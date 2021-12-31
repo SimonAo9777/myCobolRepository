@@ -1,0 +1,3 @@
+	01  PROGRAM-INFOR.
+     		 05 PROGRAM-CODE     PIC X(5).
+     		 05 PROGRAM-NAME     PIC X(20).
